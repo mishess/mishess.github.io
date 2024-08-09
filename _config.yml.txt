@@ -1,2 +1,0 @@
-title: "Shelley's Data Analyst Portfolio"
-theme: jekyll-theme-cayman
